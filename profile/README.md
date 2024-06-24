@@ -7,4 +7,5 @@ https://getwewrite.app/
 - [Read our docs](https://wewrite-app.notion.site/WeWrite-App-542e4eeba1534955927e8b3845a9d2fc?pvs=4) - which will soon be moved onto WeWrite itself 😈
 - [Twitter](https://twitter.com/WeWriteApp)
 - [Instagram](https://www.instagram.com/getwewrite/)
-- [LinkedIn](https://www.linkedin.com/company/98156314/) 
+- [LinkedIn](https://www.linkedin.com/company/98156314/)
+- [Support us!](https://whop.com/wewriteapp/)
