@@ -9,3 +9,5 @@ https://getwewrite.app/
 - [Instagram](https://www.instagram.com/getwewrite/)
 - [LinkedIn](https://www.linkedin.com/company/98156314/)
 - [Support us!](https://whop.com/wewriteapp/)
+
+![CleanShot 2024-06-26 at 15 55 38](https://github.com/WeWriteApp/.github/assets/16139439/e38d119e-d69f-4e38-8ca4-822acc6e09a5)
