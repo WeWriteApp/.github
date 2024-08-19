@@ -1,6 +1,6 @@
 # WeWrite 
 
-WeWrite is a social, collaborative note-taking app where each page is a fundraiser. Your ideas can start small in private communities, they can be edited and improved by your trusted contributors, and once you're ready you can take your polished idea to the public. 
+WeWrite is a social collaborative notes app where every page is a fundraiser. Your ideas can start in your private drafts or in the safety of small private groups, and they can grow and mature as they're edited by trusted contributors. Once the idea is ready, you can bring your polished idea to the public and start collecting funds from readers! 
 
 [Become a supporter on OpenCollective!](https://opencollective.com/wewrite-app)
 
